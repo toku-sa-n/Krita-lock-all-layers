@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=lockall
+X-Python-2-Compatible=false
+Name=Lock all layers
+Name[ja]=全てのレイヤーをロックする
+Comment=This plugin locks all but group layers
+Comment[ja]=このプラグインはグループレイヤー以外の全てのレイヤーをロックします。

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Lock all layers</text>
+
+        <Action name="lockall">
+        <icon></icon>
+        <text>Lock all layers</text>
+        <whatsThis>Locks all but group layers</whatsThis>
+        <toolTip>Locks all but group layers</toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>1</activationConditions>
+        <shortcut>ctrl+l</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip>Locks all but group layers</statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
